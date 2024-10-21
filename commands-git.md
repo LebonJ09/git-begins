@@ -5,3 +5,7 @@ git clone https://github.com/LebonJ09/git-begins.git
 git add
 git commit -m
 git push
+
+Pour creer et changer de branche:
+git branch 
+git checkout
